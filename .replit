@@ -1,0 +1,4 @@
+modules = ["bash", "python-3.12", "java-graalvm22.3", "c-clang14", "bun-1.0", "dotnet-7.0", "angular-node-20", "cpp-clang14", "clojure-1.11", "dart-3.4", "dart-3.3", "dart-2.18", "deno-1", "elixir-1_15", "elixir-1_16", "go-1.20", "go-1.19", "gcloud", "haskell-ghc9.6", "haskell-ghc9.4", "haskell-ghc9.2", "hermit-0.38.2", "lua-5.2", "nix", "nodejs-16", "nodejs-with-prybar-18", "nodejs-19", "nodejs-20", "php-8.2", "php-8.1", "python-with-prybar-3.10", "python-3.9", "python-3.11", "python-3.10", "r-4.3", "r-4.2", "replit-rtld-loader", "ruby-3.1", "ruby-3.2", "rust-nightly", "rust-stable", "docker", "svelte-kit-node-20", "swift-5.8", "swift-5.6", "typescript-language-server", "vue-node-18", "vue-node-20", "web", "pyright-extended", "zig-0.11"]
+
+[nix]
+channel = "stable-23_11"
