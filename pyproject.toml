@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "oss-fuzz"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "oss_fuzz"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fuzz = "0.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
